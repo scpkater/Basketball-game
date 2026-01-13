@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Hoops Master",
+  "description": "A physics-based basketball shooting game featuring real-time commentary from an AI sportscaster powered by Google Gemini.",
+  "requestFramePermissions": []
+}
